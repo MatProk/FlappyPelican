@@ -1,0 +1,2 @@
+# FlappyPelican
+project for studies
